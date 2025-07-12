@@ -40,8 +40,5 @@ To get started with triggering webhooks from this repository:
 1. **Clone the Repo**
    ```bash
    git clone https://github.com/YOUR_USERNAME/action-repo.git
-<<<<<<HEAD
    cd action-repo
-=======
-   cd action-repo
->>>>>>> feature/test-pr
+   ```
